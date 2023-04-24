@@ -1,2 +1,1 @@
-# .github
-nju typst group
+# NJU-TYPST主页仓库
