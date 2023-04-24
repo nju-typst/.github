@@ -1,0 +1,2 @@
+# .github
+nju typst group
